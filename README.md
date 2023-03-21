@@ -1,1 +1,1 @@
-# TrainingProject for myself
+# TrainingProject 
